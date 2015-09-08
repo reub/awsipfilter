@@ -1,0 +1,3 @@
+* * * * * root /usr/local/bin/whitelist/reload.sh >> /var/log/cron.log 2>&1
+
+
